@@ -7,3 +7,9 @@ Soy Ing. de Sistemas egresado de la Universidad San Luis Gonzaga de Ica. Tengo 2
 Si necesita de alguien con experiencia en Calidad de Software no dudes en contactarme.
 Telefono: 940049942
 mail: alenarroandrade@gmail.com
+
+## Technologies
+- SOAP UI
+- PL/SQL
+- HTML
+- JUnit
