@@ -19,3 +19,9 @@ mail: alenarroandrade@gmail.com
 
 - Videojuegos
 - Comics
+
+## Skills
+
+- Pruebas Funcionales.
+- Pruebas de Integracion y Unitarias.
+- Estimaciones y Plan de Pruebas.
