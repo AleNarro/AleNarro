@@ -11,3 +11,20 @@ mail: alenarroandrade@gmail.com
 ## Idiomas
 - Español
 - Inglés
+
+## Technologies
+- SOAP UI
+- PL/SQL
+- HTML
+- JUnit
+
+## Hobbies
+
+- Videojuegos
+- Comics
+
+## Skills
+
+- Pruebas Funcionales.
+- Pruebas de Integracion y Unitarias.
+- Estimaciones y Plan de Pruebas.
