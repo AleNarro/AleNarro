@@ -8,6 +8,18 @@ Si necesita de alguien con experiencia en Calidad de Software no dudes en contac
 Telefono: 940049942
 mail: alenarroandrade@gmail.com
 
+
+## Technologies
+- SOAP UI
+- PL/SQL
+- HTML
+- JUnit
+
+## Hobbies
+
+- Videojuegos
+- Comics
+
 ## Skills
 
 - Pruebas Funcionales.
