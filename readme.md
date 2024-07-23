@@ -8,6 +8,9 @@ Si necesita de alguien con experiencia en Calidad de Software no dudes en contac
 Telefono: 940049942
 mail: alenarroandrade@gmail.com
 
+## Idiomas
+- Español
+- Inglés
 
 ## Technologies
 - SOAP UI
